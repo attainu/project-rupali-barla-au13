@@ -24,7 +24,7 @@ parkinglot.py script defines the following functions :-
 
 parkinglot.py can be run through shell or through file containing test cases. An example file run_test_case.txt has been provided in repo.
 
-To Run Program :-
+To Run Project :-
 
 1) Clone the repository https://github.com/attainu/project-rupali-barla-au13/tree/dev
 
