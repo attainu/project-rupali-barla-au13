@@ -27,7 +27,7 @@ To Run Program :
 
 1) Clone the repository https://github.com/attainu/project-rupali-barla-au13
 
-2) Run python park_command.py to run without input test case file. This opens a shell where you can write your commands like - create_parking_lot 6,leave 4, etc as provided in the project guidelines.
-
-3) To run with a file execute python park_command.py -f run_test_case.txt. You can modify the test cases.
+2) Run python park_command.py to run without input test case file. This opens a shell where you can write your commands like - create_parking_lot 6, leave 4, etc as provided in the project guidelines.
+python park_command.py -f run_test_case.txt
+3) To run with a file execute . You can modify the test cases.
 
