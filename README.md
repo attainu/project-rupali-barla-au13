@@ -24,11 +24,25 @@ parkinglot.py script defines the following functions :-
 
 parkinglot.py can be run through shell or through file containing test cases. An example file run_test_case.txt has been provided in repo.
 
-To Run Program :
+To Run Program :-
 
 1) Clone the repository https://github.com/attainu/project-rupali-barla-au13/tree/dev
 
-2) Run python park_command.py to run without input test case file. This opens a shell where you can write your commands like - create_parking_lot 6, leave 4, etc as provided in the project guidelines.
+2) Install Python
 
-3) To run with a file execute python park_command.py -f run_test_case.txt. You can modify the test cases.
+3) Install flake8 library:
 
+o pip install flake8
+o goto root directory where parkinglot.py file is present.
+o Run python -m flake8 command and check for any errors:
+o like I got no newline error, to ignore that use #noqa at the end 
+
+4) Run python park_command.py to run without input test case file. This opens a shell where you can write your commands like - create_parking_lot 6, leave 4, etc as provided in the project guidelines.
+
+5) To run with a file execute python park_command.py -f run_test_case.txt. You can modify the test cases.
+
+Technologies used :-
+
+Project is created with : -
+• Python: 3.8.5
+• Flake8 (for linting)
