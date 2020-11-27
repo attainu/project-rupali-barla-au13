@@ -8,7 +8,7 @@ It creates a parking lot with given number of slots. The vehicles follow Greedy 
 
 parkinglot.py script defines the following functions :-
 
-1) create_parking_space - Given n number of slots, create a parking lot
+1) create_parking_space - Given n number of slots, creates a parking lot
 
 2) parking_of_vehicle - Parks a vehicle with given registration number and color in the nearest empty slot possible. If there are no more empty slots available, it shows a message "Sorry, parking lot is full".
 
@@ -16,11 +16,11 @@ parkinglot.py script defines the following functions :-
 
 4) leave_parking - Removes vehicle from slot number x.
 
-5) get_slot_no_by_registration_no - Give slot number by providing registration number.
+5) get_slot_no_by_registration_no - Gives the slot number by providing registration number.
 
-6) get_slot_no_of_all_car_by_colour - Give slot numbers of all cars of a particular colour.
+6) get_slot_no_of_all_car_by_colour - Gives the slot numbers of all cars of a particular colour.
 
-7) get_regno_of_all_car_by_colour - Give registration numbers of all cars of a particular colour.
+7) get_regno_of_all_car_by_colour - Gives the registration numbers of all cars of a particular colour.
 
 parkinglot.py can be run through shell or through file containing test cases. An example file run_test_case.txt has been provided in repo.
 
