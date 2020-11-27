@@ -74,4 +74,3 @@ if __name__ == '__main__':
     run_parking = Parking_Commands()
     print("Welcome To Our Parking Lot")
     run_parking.main()
-    
