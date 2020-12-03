@@ -16,9 +16,9 @@ Parking_Lot.py script defines the following functions :-
 
 4) Status - Prints the slot number, registration number and color of the parked vehicles.
 
-5) Reg_No_By_Color - Gives the registration numbers of all cars of a particular colour.
+5) Reg_No_By_Color - Gives the registration numbers of all cars of a particular color.
 
-6) Slot_No_By_Color - Gives the slot numbers of all cars of a particular colour.
+6) Slot_No_By_Color - Gives the slot numbers of all cars of a particular color.
 
 7) Slot_No_By_Reg_No - Gives the slot number by providing registration number.
 
@@ -47,6 +47,7 @@ iv) like I got blank line contains whitespace error, to ignore that use #noqa at
 Technologies used :-
 
 Project is created with : -
+
 • Python: 3.8.5
 
 • Flake8 (for linting)
