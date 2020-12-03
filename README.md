@@ -34,11 +34,11 @@ To Run Project :-
 
 i) pip install flake8
 
-ii) goto root directory where parkinglot.py file is present.
+ii) goto root directory where Parking_Lot.py file is present.
 
 iii) Run python -m flake8 command and check for any errors:
 
-iv) like I got blank line contains whitespace error, to ignore that use #noqa at the end 
+iv) like I got blank line contains whitespace error, to ignore that use #noqa at the end.
 
 4) Run parking_main.py to run without input test case file. This opens a shell where you can write your commands like - create_parking_lot 6, leave 4, status etc as provided in the project guidelines.
 
